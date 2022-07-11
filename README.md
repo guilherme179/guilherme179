@@ -1,15 +1,12 @@
 <img align="right" height="590en" src="https://raw.githubusercontent.com/gist/guilherme179/c0fdc33e3f6c14183f65a728b53a7a34/raw/f18573219c9895e8c92c1beb76003eec307a497c/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Souza</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme179&color=yellow" alt="Profile views" /> </p>
-
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as freelancer web progamator
 - 🌱 I’m currently learning PHP, JavaScript, SQL
 - 💬 Ask me about HTML, CSS, PHP, SQL
-- 📫 How to reach me: guilherme.gui.souza179@gmail.com / https://www.linkedin.com/in/guilherme-souza-414472219/
-
+- 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
