@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, PHP, SQL
 - 📫 How to reach me: guilherme.gui.souza179@gmail.com / https://www.linkedin.com/in/guilherme-souza-414472219/
 
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -24,3 +23,20 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilherme179&show_icons=true&theme=vision-friendly-dark" alt="guilherme's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme179&layout=compact&theme=vision-friendly-dark" alt="guilherme's most languages"/>
+</p>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/guilherme-souza-414472219/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-guilherme179-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/_guiisouza17/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-guilherme179-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
