@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Mysql]https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
+![Mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 
