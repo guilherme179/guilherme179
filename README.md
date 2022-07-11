@@ -37,9 +37,13 @@ Here are some ideas to get you started:
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/guilherme-souza-414472219/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-guilherme179-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" width="180" height="32.25" src="https://img.shields.io/badge/-guilherme%20souza-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+ <a href = "mailto:guilherme.gui.souza179@gmail.com" target="_blank">
+   <img align="center" width="170" height="32.25" src="https://img.shields.io/badge/-guilherme179-05122A?style=flat&logo=gmail&logoColor=white" alt="gmail">
+</a>
+  
 <a href="https://www.instagram.com/_guiisouza17/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-guilherme179-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <img align="center" width="150" src="https://img.shields.io/badge/-_guiisouza17-05122A?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 </p>
