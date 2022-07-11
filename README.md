@@ -2,7 +2,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme179&color=yellow" alt="Profile views" /> </p>
 
-<!--
 **guilherme179/guilherme179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,9 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning PHP, JavaScript, SQL
 - 💬 Ask me about HTML, CSS, PHP, SQL
 - 📫 How to reach me: guilherme.gui.souza179@gmail.com / https://www.linkedin.com/in/guilherme-souza-414472219/
--->
 
-<!--
 
 <br><br>
 
@@ -27,4 +24,3 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Mysql]https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 
--->
