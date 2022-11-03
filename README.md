@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as mis and quality assistant on Tel Contact Center
 - 🌱 I’m currently learning PHP, JavaScript, TypeScript, React, React Native, SQL
 - 💬 Ask me about HTML, CSS, PHP, JavaScript, SQL
-- 
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
